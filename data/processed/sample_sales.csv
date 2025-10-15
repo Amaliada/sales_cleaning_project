@@ -1,0 +1,101 @@
+trans_id,timestamp,customer_id,product_id,quantity,unit_price,store,payment_method,product_name,category,unit,list_price,vat,customer_name,email,city,segment,promo_price,effective_price,line_amount
+T726902,2025-08-22 11:40:00,C2246,P1057,1.0,3.85, ,,Ciocolata Zero,Dulciuri,kg,55.51,0.05,George Radu,user2618@example.ro,Constanta,B2C,,3.85,3.85
+T661334,2025-04-04 23:30:00,C2123,P1012,1.0,10.49,Online,,Lapte -,Lactate,buc,22.92,0.09,Andrei Ionescu,user3980@example.ro,Iasi,B2C,,10.49,10.49
+T896096,2025-09-27 03:15:00,C2119,P1004,10.0,27.33,Online,,Ulei Light,Bauturi,kg,45.67,0.05,Elena Marin,user8061@example.ro,Timisoara,B2C,,27.33,273.29999999999995
+T516821,2025-01-26 13:56:00,C2048,P1035,1.0,20.28,Store-01,,Ciocolata Light,-,kg,10.44,0.05,Mihai Stan,user7754@example.ro,Constanta,-,,20.28,20.28
+T673371,2025-04-01 18:20:00,C2055,P1001,10.0,54.52,Store-02,,Biscuiti Max,Lactate,kg,6.52,0.19,Andrei Stan,,Brasov,RETAIL,,54.52,545.2
+T667169,2025-08-22 23:49:00,C2235,P1045,1.0,36.87,Online,,Apa,Baza,l,10.49,0.19,Mihai Radu,user5430@example.ro,Brasov,RETAIL,,36.87,36.87
+T890370,2025-09-11 15:52:00,C2034,P1056,3.0,50.43,Online,,Ceai Max,Dulciuri,buc,26.97,0.09,Mihai Radu,user2390@example.ro,Cluj-Napoca,B2C,,50.43,151.29
+T488359,2025-07-25 06:47:00,C2210,P1007,3.0,54.25,Online,,Apa Light,Lactate,set,53.28,0.05,Ana Radu,user6579@example.ro,Iasi,B2C,,54.25,162.75
+T913166,2025-05-07 13:52:00,C2169,P1046,5.0,45.55,Store-02,,Suc,-,buc,27.98,0.09,Elena Radu,user9895@example.ro,Iasi,-,,45.55,227.75
+T554399,2025-07-22 03:42:00,C2168,P1016,3.0,19.71,shop_03,,Suc -,Baza,l,7.74,0.09,George Marin,user5008@example.ro,Bucuresti,B2B,,19.71,59.13
+T141993,2025-07-18 03:43:00,C2130,P1056,1.0,51.58,Online,,Ceai Max,Dulciuri,buc,26.97,0.09,Andrei Ionescu,user2489@example.ro,Timisoara,B2B,,51.58,51.58
+T596359,2025-05-21 09:49:00,C2180,P1044,2.0,24.8,Store-01,,Ciocolata Premium,Lactate,l,24.21,0.09,Elena Marin,user194@example.ro,Brasov,RETAIL,,24.8,49.6
+T532209,2025-05-28 14:48:00,C2042,P1011,1.0,8.72,Store-02,,Suc Max,Dulciuri,l,14.31,,Elena Popescu,user6904@example.ro,Iasi,B2B,,8.72,8.72
+T695026,2025-04-25 04:52:00,C2102,P1015,1.0,45.68,shop_03,,Ciocolata -,Dulciuri,l,29.73,,Maria Popescu,user276@example.ro,Bucuresti,B2C,,45.68,45.68
+T490293,2025-04-14 09:03:00,C2077,P1045,1.0,21.21,Store-02,,Apa,Baza,l,10.49,0.19,George Popescu,user2323@example.ro,Iasi,B2C,,21.21,21.21
+T299850,2025-09-11 17:23:00,C2231,P1030,1.0,3.6,shop_03,,Ceai -,Lactate,buc,20.44,,George Popescu,,Timisoara,B2B,,3.6,3.6
+T275073,2025-09-18 00:57:00,C2037,P1026,10.0,31.49,shop_03,,Lapte -,-,buc,14.47,0.05,Ana Stan,user1863@example.ro,Bucuresti,B2C,,31.49,314.9
+T570563,2025-03-15 01:20:00,C2111,P1011,10.0,12.87,shop_03,,Suc Max,Dulciuri,l,14.31,,Mihai Marin,user1035@example.ro,Brasov,B2B,,12.87,128.7
+T344691,2025-06-04 05:03:00,C2092,P1021,5.0,41.8,Store-02,,Ceai Max,-,buc,16.8,0.09,Mihai Popescu,user450@example.ro,Timisoara,B2C,,41.8,209.0
+T721771,2025-06-04 12:53:00,C2217,P1037,10.0,33.37,Store-02,,Ulei Premium,Bauturi,kg,55.55,0.19,Mihai Popescu,,Iasi,B2C,,33.37,333.7
+T568844,2025-06-20 18:01:00,C2012,P1010,1.0,54.61,shop_03,,Ceai Eco,Bauturi,buc,21.93,0.09,Maria Marin,user2748@example.ro,Iasi,B2B,,54.61,54.61
+T478397,2025-03-27 02:46:00,C2044,P1002,1.0,21.6, ,,Ulei Max,Dulciuri,kg,58.82,0.09,Mihai Ionescu,user4847@example.ro,Cluj-Napoca,RETAIL,,21.6,21.6
+T519042,2025-03-08 11:34:00,C2243,P1032,2.0,3.98,shop_03,,Ulei,Baza,l,56.13,0.09,Mihai Ionescu,user5552@example.ro,Timisoara,B2C,,3.98,7.96
+T385218,2025-04-20 05:29:00,C2137,P1011,1.0,55.44, ,,Suc Max,Dulciuri,l,14.31,,Maria Radu,user3804@example.ro,Bucuresti,B2C,,55.44,55.44
+T995211,2025-08-03 04:30:00,C2160,P1011,2.0,22.22, ,,Suc Max,Dulciuri,l,14.31,,Ana Ionescu,user1029@example.ro,Brasov,-,,22.22,44.44
+T286639,2025-04-20 14:32:00,C2234,P1021,3.0,30.54,Online,,Ceai Max,-,buc,16.8,0.09,Andrei Stan,user7292@example.ro,Bucuresti,B2C,,30.54,91.62
+T885350,2025-01-26 23:35:00,C2165,P1054,1.0,50.39,shop_03,,Biscuiti Eco,Lactate,buc,10.21,,Maria Stan,user5062@example.ro,Constanta,B2C,,50.39,50.39
+T547285,2025-01-16 01:14:00,C2167,P1055,1.0,25.51,Store-01,,suc -,Dulciuri,set,59.83,0.05,Maria Popescu,user5102@example.ro,Constanta,-,,25.51,25.51
+T617946,2025-09-27 08:58:00,C2127,P1034,1.0,31.75,Online,,Ciocolata Max,Lactate,buc,53.96,0.09,Andrei Radu,user3327@example.ro,Iasi,B2C,,31.75,31.75
+T205766,2025-03-07 15:53:00,C2135,P1006,3.0,10.72, ,,Suc Premium,Dulciuri,l,54.64,0.09,Mihai Ionescu,user4631@example.ro,Constanta,RETAIL,,10.72,32.160000000000004
+T977526,2025-09-14 04:44:00,C2179,P1048,1.0,25.59,Store-01,,Ciocolata Max,Lactate,set,27.12,,Ana Marin,user5101@example.ro,Cluj-Napoca,-,,25.59,25.59
+T823699,2025-02-15 14:08:00,C2236,P1052,2.0,11.91, ,,Ciocolata Light,Lactate,buc,51.28,0.19,Ana Stan,user9406@example.ro,Cluj-Napoca,-,,11.91,23.82
+T837880,2025-09-02 01:41:00,C2135,P1025,10.0,37.42,shop_03,,Biscuiti Light,-,set,10.83,0.09,Mihai Ionescu,user4631@example.ro,Constanta,RETAIL,,37.42,374.20000000000005
+T749237,2025-04-07 17:07:00,C2217,P1017,3.0,46.91,Store-01,,Lapte Eco,-,buc,17.97,0.19,Mihai Popescu,,Iasi,B2C,,46.91,140.73
+T967484,2025-09-23 00:54:00,C2225,P1020,1.0,48.75,Store-01,,Apa Zero,Lactate,l,28.29,0.05,Maria Ionescu,user8167@example.ro,Constanta,B2C,,48.75,48.75
+T473232,2025-02-04 06:56:00,C2154,P1036,10.0,35.7,Store-01,,suc max,Lactate,buc,30.44,,Elena Radu,user9519@example.ro,Bucuresti,B2C,,35.7,357.0
+T473069,2025-05-04 23:17:00,C2216,P1013,10.0,46.23,Store-02,,Ciocolata Premium,Bauturi,set,17.7,0.19,Elena Marin,user1182@example.ro,Timisoara,B2C,,46.23,462.29999999999995
+T584063,2025-09-26 07:25:00,C2043,P1004,2.0,53.11, ,,Ulei Light,Bauturi,kg,45.67,0.05,Mihai Marin,user9557@example.ro,Bucuresti,-,,53.11,106.22
+T495959,2025-03-24 18:33:00,C2230,P1012,2.0,47.67,Store-01,,Lapte -,Lactate,buc,22.92,0.09,Elena Radu,user8377@example.ro,Bucuresti,RETAIL,,47.67,95.34
+T205621,2025-02-12 19:18:00,C2098,P1016,5.0,48.33, ,,Suc -,Baza,l,7.74,0.09,Andrei Marin,user9043@example.ro,Brasov,-,,48.33,241.64999999999998
+T332196,2025-08-25 00:24:00,C2204,P1020,2.0,42.34,Store-01,,Apa Zero,Lactate,l,28.29,0.05,Ana Radu,user688@example.ro,Brasov,B2C,,42.34,84.68
+T142506,2025-07-08 11:18:00,C2147,P1029,5.0,15.75,Store-01,,Cafea,Lactate,kg,23.81,0.09,George Stan,user1529@example.ro,Bucuresti,-,,15.75,78.75
+T111959,2025-07-20 23:15:00,C2113,P1039,5.0,3.6,shop_03,,Ulei Max,-,l,51.21,,George Ionescu,user5877@example.ro,Timisoara,B2B,,3.6,18.0
+T316915,2025-09-11 23:36:00,C2241,P1059,10.0,12.09,Store-02,,Ciocolata -,Dulciuri,kg,31.98,0.09,Elena Stan,user4530@example.ro,Iasi,B2C,,12.09,120.9
+T797849,2025-08-16 01:08:00,C2057,P1053,3.0,38.66,shop_03,,Apa Premium,-,buc,38.16,0.05,George Radu,user4647@example.ro,Cluj-Napoca,B2C,,38.66,115.97999999999999
+T666933,2025-09-24 02:40:00,C2009,P1043,5.0,49.0,Online,,Biscuiti Zero,Dulciuri,set,6.49,0.19,Maria Radu,user3107@example.ro,Constanta,B2B,,49.0,245.0
+T103650,2025-04-18 03:49:00,C2077,P1016,1.0,48.88,shop_03,,Suc -,Baza,l,7.74,0.09,George Popescu,user2323@example.ro,Iasi,B2C,,48.88,48.88
+T314127,2025-09-14 14:30:00,C2155,P1026,1.0,53.14, ,,Lapte -,-,buc,14.47,0.05,Ana Stan,user6603@example.ro,Timisoara,B2C,,53.14,53.14
+T357473,2025-06-11 22:00:00,C2179,P1031,10.0,58.16, ,,Apa,Bauturi,set,22.53,0.05,Ana Marin,user5101@example.ro,Cluj-Napoca,-,,58.16,581.5999999999999
+T544045,2025-06-07 22:24:00,C2141,P1031,2.0,7.34, ,,Apa,Bauturi,set,22.53,0.05,George Ionescu,user4124@example.ro,Constanta,-,,7.34,14.68
+T644579,2025-02-28 10:29:00,C2125,P1040,1.0,37.47, ,,Ceai Eco,Dulciuri,buc,40.6,0.09,Ana Popescu,user2438@example.ro,Brasov,B2C,,37.47,37.47
+T656498,2025-07-15 02:25:00,C2233,P1058,3.0,29.11,Online,,Ulei Light,Bauturi,buc,15.36,0.09,Ana Stan,user7117@example.ro,Bucuresti,B2B,,29.11,87.33
+T919008,2025-02-13 03:53:00,C2120,P1001,3.0,10.54,Online,,Biscuiti Max,Lactate,kg,6.52,0.19,Mihai Popescu,user9813@example.ro,Iasi,B2C,,10.54,31.619999999999997
+T489458,2025-02-01 14:10:00,C2208,P1056,1.0,46.24,shop_03,,Ceai Max,Dulciuri,buc,26.97,0.09,Elena Popescu,user341@example.ro,Constanta,-,,46.24,46.24
+T567119,2025-01-01 19:43:00,C2068,P1042,3.0,18.58, ,,Biscuiti Zero,Dulciuri,set,8.73,0.09,George Ionescu,user9048@example.ro,Bucuresti,B2C,,18.58,55.739999999999995
+T566694,2025-03-21 15:08:00,C2083,P1052,1.0,47.85,Online,,Ciocolata Light,Lactate,buc,51.28,0.19,Elena Marin,user2889@example.ro,Bucuresti,B2B,,47.85,47.85
+T691585,2025-04-27 16:39:00,C2141,P1030,2.0,49.19,Store-02,,Ceai -,Lactate,buc,20.44,,George Ionescu,user4124@example.ro,Constanta,-,,49.19,98.38
+T328250,2025-02-13 00:00:00,C2145,P1056,10.0,17.4,Online,,Ceai Max,Dulciuri,buc,26.97,0.09,Mihai Radu,,Brasov,B2B,,17.4,174.0
+T416148,2025-07-10 18:08:00,C2028,P1015,2.0,4.78,Store-01,,Ciocolata -,Dulciuri,l,29.73,,Elena Stan,user980@example.ro,Bucuresti,B2B,,4.78,9.56
+T993938,2025-02-09 11:18:00,C2059,P1056,2.0,7.76, ,,Ceai Max,Dulciuri,buc,26.97,0.09,Andrei Marin,user7180@example.ro,Constanta,B2C,,7.76,15.52
+T946397,2025-05-08 08:14:00,C2111,P1029,1.0,51.18, ,,Cafea,Lactate,kg,23.81,0.09,Mihai Marin,user1035@example.ro,Brasov,B2B,,51.18,51.18
+T372745,2025-05-22 06:24:00,C2119,P1048,1.0,7.01,Store-01,,Ciocolata Max,Lactate,set,27.12,,Elena Marin,user8061@example.ro,Timisoara,B2C,,7.01,7.01
+T355337,2025-01-25 15:25:00,C2214,P1029,5.0,33.68,shop_03,,Cafea,Lactate,kg,23.81,0.09,Andrei Marin,user4371@example.ro,Bucuresti,B2B,,33.68,168.4
+T547895,2025-05-01 10:19:00,C2222,P1025,5.0,50.79,Store-02,,Biscuiti Light,-,set,10.83,0.09,Ana Radu,user165@example.ro,Timisoara,B2C,,50.79,253.95
+T983765,2025-02-08 01:17:00,C2056,P1045,2.0,15.56,Store-01,,Apa,Baza,l,10.49,0.19,Mihai Radu,user4398@example.ro,Brasov,B2C,,15.56,31.12
+T964327,2025-02-28 15:52:00,C2217,P1038,3.0,13.4,Store-02,,Biscuiti Max,Lactate,kg,48.48,,Mihai Popescu,,Iasi,B2C,,13.4,40.2
+T839537,2025-06-14 06:20:00,C2220,P1058,3.0,16.97,Online,,Ulei Light,Bauturi,buc,15.36,0.09,Mihai Radu,user5196@example.ro,Brasov,-,,16.97,50.91
+T479292,2025-02-15 08:32:00,C2122,P1008,1.0,26.23, ,,Cafea Light,Dulciuri,kg,7.18,0.19,Maria Stan,user8564@example.ro,Timisoara,B2C,,26.23,26.23
+T180741,2025-07-22 09:20:00,C2030,P1008,2.0,11.93, ,,Cafea Light,Dulciuri,kg,7.18,0.19,Elena Ionescu,user4429@example.ro,Constanta,RETAIL,,11.93,23.86
+T897259,2025-03-07 07:21:00,C2043,P1051,5.0,48.64,shop_03,,Ceai Max,Dulciuri,l,4.77,0.19,Mihai Marin,user9557@example.ro,Bucuresti,-,,48.64,243.2
+T109947,2025-08-10 05:34:00,C2026,P1048,1.0,37.44,Online,,Ciocolata Max,Lactate,set,27.12,,Mihai Popescu,user6135@example.ro,Timisoara,B2C,,37.44,37.44
+T929842,2025-03-14 11:29:00,C2068,P1050,5.0,34.29,Online,,Suc Light,Lactate,set,22.59,0.09,George Ionescu,user9048@example.ro,Bucuresti,B2C,,34.29,171.45
+T320299,2025-09-18 06:08:00,C2171,P1039,1.0,9.21,Online,,Ulei Max,-,l,51.21,,Mihai Radu,,Iasi,-,,9.21,9.21
+T559792,2025-02-09 17:09:00,C2073,P1040,1.0,17.97,shop_03,,Ceai Eco,Dulciuri,buc,40.6,0.09,Mihai Radu,user367@example.ro,Cluj-Napoca,B2C,,17.97,17.97
+T141121,2025-01-05 13:14:00,C2030,P1051,10.0,44.51, ,,Ceai Max,Dulciuri,l,4.77,0.19,Elena Ionescu,user4429@example.ro,Constanta,RETAIL,,44.51,445.09999999999997
+T102159,2025-01-21 19:38:00,C2014,P1055,10.0,58.47,Store-01,,suc -,Dulciuri,set,59.83,0.05,Ana Radu,user5378@example.ro,Timisoara,B2B,,58.47,584.7
+T811558,2025-01-19 21:37:00,C2062,P1012,10.0,48.13,Store-02,,Lapte -,Lactate,buc,22.92,0.09,Elena Stan,user5681@example.ro,Brasov,RETAIL,,48.13,481.3
+T101667,2025-07-09 11:28:00,C2058,P1002,10.0,17.72,Online,,Ulei Max,Dulciuri,kg,58.82,0.09,Mihai Ionescu,user571@example.ro,Iasi,-,,17.72,177.2
+T738268,2025-09-01 22:34:00,C2160,P1026,1.0,14.06,shop_03,,Lapte -,-,buc,14.47,0.05,Ana Ionescu,user1029@example.ro,Brasov,-,,14.06,14.06
+T517000,2025-03-27 14:23:00,C2170,P1008,1.0,19.03,Store-02,,Cafea Light,Dulciuri,kg,7.18,0.19,Maria Radu,user7155@example.ro,Iasi,RETAIL,,19.03,19.03
+T261247,2025-08-09 18:16:00,C2245,P1025,5.0,27.4,Store-02,,Biscuiti Light,-,set,10.83,0.09,Ana Marin,user4732@example.ro,Constanta,RETAIL,,27.4,137.0
+T398038,2025-07-24 22:55:00,C2179,P1036,10.0,7.88,shop_03,,suc max,Lactate,buc,30.44,,Ana Marin,user5101@example.ro,Cluj-Napoca,-,,7.88,78.8
+T440486,2025-07-09 09:59:00,C2223,P1000,5.0,36.7,Store-01,,apa light,Baza,buc,53.38,,Mihai Stan,user5472@example.ro,Timisoara,B2B,,36.7,183.5
+T700564,2025-09-18 05:15:00,C2124,P1041,10.0,39.89,Store-01,,Suc Zero,-,set,10.31,0.09,Elena Ionescu,user6003@example.ro,Bucuresti,B2C,,39.89,398.9
+T185146,2025-03-14 04:13:00,C2039,P1021,3.0,22.39,Store-02,,Ceai Max,-,buc,16.8,0.09,Andrei Popescu,user4407@example.ro,Timisoara,B2C,,22.39,67.17
+T223346,2025-03-18 15:38:00,C2212,P1056,2.0,19.26, ,,Ceai Max,Dulciuri,buc,26.97,0.09,Ana Radu,user7892@example.ro,Timisoara,RETAIL,,19.26,38.52
+T185800,2025-06-02 15:18:00,C2216,P1002,1.0,46.86,Online,,Ulei Max,Dulciuri,kg,58.82,0.09,Elena Marin,user1182@example.ro,Timisoara,B2C,,46.86,46.86
+T920113,2025-02-01 08:32:00,C2243,P1053,1.0,21.63,Store-01,,Apa Premium,-,buc,38.16,0.05,Mihai Ionescu,user5552@example.ro,Timisoara,B2C,,21.63,21.63
+T279353,2025-04-12 05:52:00,C2013,P1031,5.0,23.8,Online,,Apa,Bauturi,set,22.53,0.05,Mihai Ionescu,,Timisoara,-,,23.8,119.0
+T966792,2025-02-01 03:20:00,C2191,P1002,10.0,22.64,Store-01,,Ulei Max,Dulciuri,kg,58.82,0.09,George Marin,user9101@example.ro,Brasov,B2C,,22.64,226.4
+T493371,2025-02-01 11:27:00,C2180,P1010,2.0,37.29,Store-02,,Ceai Eco,Bauturi,buc,21.93,0.09,Elena Marin,user194@example.ro,Brasov,RETAIL,,37.29,74.58
+T808465,2025-01-20 10:39:00,C2052,P1051,10.0,29.94,shop_03,,Ceai Max,Dulciuri,l,4.77,0.19,George Ionescu,user4846@example.ro,Constanta,B2C,,29.94,299.40000000000003
+T121009,2025-05-11 09:27:00,C2199,P1051,5.0,4.02, ,,Ceai Max,Dulciuri,l,4.77,0.19,Mihai Marin,user9149@example.ro,Timisoara,B2B,,4.02,20.099999999999998
+T399802,2025-09-26 13:14:00,C2179,P1021,3.0,31.45,Store-02,,Ceai Max,-,buc,16.8,0.09,Ana Marin,user5101@example.ro,Cluj-Napoca,-,,31.45,94.35
+T151174,2025-07-12 11:14:00,C2242,P1031,3.0,37.09,Online,,Apa,Bauturi,set,22.53,0.05,Mihai Popescu,user3945@example.ro,Cluj-Napoca,B2C,,37.09,111.27000000000001
+T840764,2025-04-21 07:28:00,C2124,P1022,1.0,40.75,shop_03,,Ciocolata Light,Dulciuri,buc,8.61,0.05,Elena Ionescu,user6003@example.ro,Bucuresti,B2C,,40.75,40.75
+T820020,2025-06-25 04:08:00,C2143,P1010,1.0,26.04,Store-01,,Ceai Eco,Bauturi,buc,21.93,0.09,Andrei Ionescu,user1620@example.ro,Brasov,B2B,,26.04,26.04
+T306564,2025-01-13 03:23:00,C2227,P1044,5.0,17.31,Store-01,,Ciocolata Premium,Lactate,l,24.21,0.09,Maria Radu,user290@example.ro,Constanta,-,,17.31,86.55
+T299861,2025-05-11 21:47:00,C2037,P1000,1.0,3.14, ,,apa light,Baza,buc,53.38,,Ana Stan,user1863@example.ro,Bucuresti,B2C,,3.14,3.14
+T807310,2025-09-06 01:17:00,C2018,P1012,1.0,31.75,Online,,Lapte -,Lactate,buc,22.92,0.09,George Ionescu,user9136@example.ro,Cluj-Napoca,B2C,,31.75,31.75
